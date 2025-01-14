@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Poppins",sans-serif;
+}
+
+span{
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+.bludshadow{
+    box-shadow :3px 3px 0 0 #60a5fa;
+}
+
+.bludshadow:hover{
+    transform: translate(-3px, 3-px);
+    box-shadow :6px 6px 0 0 #60a5fa;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
