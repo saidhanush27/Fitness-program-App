@@ -7,15 +7,14 @@ Welcome to **Dhanush's Fitness Program**, a fitness app designed to help you ach
 ## Features
 - **Pick Your Poison**: Choose the type of workout that fits your preference (Strength, Hypertrophy, etc.).
 - **Lock on Targets**: Select muscle groups for a more focused workout plan.
+
+![image alt](https://github.com/saidhanush27/fitnessapp/blob/33312e3f9aa189eeb1d0da5ae08baec5b84cc6d5/images/generate.png)
 - **Become Juggernaut**: Choose your ultimate fitness goal, such as bulking, cutting, or general fitness
-
-
-
-- ![image alt](https://github.com/saidhanush27/fitnessapp/blob/33312e3f9aa189eeb1d0da5ae08baec5b84cc6d5/images/generate.png).
 - **Responsive Design**: Fully responsive UI built using Tailwind CSS to provide a seamless experience on all devices.
+
+ ![image alt](https://github.com/saidhanush27/fitnessapp/blob/f23f14bc7245c2218b275a17d3b54d2522908335/images/poison.png)
 - **Interactive UI**: Smooth scrolling, dynamic interactions, and easy-to-use interface make the app engaging.
-  
-- ![image alt](https://github.com/saidhanush27/fitnessapp/blob/33312e3f9aa189eeb1d0da5ae08baec5b84cc6d5/images/end.png)
+![image alt](https://github.com/saidhanush27/fitnessapp/blob/33312e3f9aa189eeb1d0da5ae08baec5b84cc6d5/images/end.png)
 
 ## Tech Stack
 - **Frontend**: React
